@@ -1,0 +1,13 @@
+{
+  "admin": {
+    "username": "",
+    "password": ""
+  },
+  "database": {
+    "content": ""
+  },
+  "jtw" : {
+    "secretKey" : "",
+    "expireToken" : 360000
+  }
+}
