@@ -112,7 +112,7 @@ To convert this object to html and display it on web pages, you can use modules 
 use `admindemo` for both username and password.
 
 ```
-https://developer-cms.herokuapp.com/
+https://dev-cms.glitch.me/
 ```
 
 
