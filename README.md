@@ -91,8 +91,8 @@ To convert this object to html and display it on web pages, you can use modules 
 
 
 
-## 💡 Live demo
-use `admindemo` for both username and password.
+## 🚀 Live demo
+use `adminuser` for username and `adminpass` password.
 
 ```
 https://devcms.ir
