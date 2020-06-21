@@ -92,7 +92,9 @@ To convert this object to html and display it on web pages, you can use modules 
 
 
 ## 🚀 Live demo
-use `adminuser` for username and `adminpass` for password.
+
+username: `adminuser`
+password: `adminpass`
 
 ```
 https://devcms.ir
