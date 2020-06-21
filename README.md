@@ -1,7 +1,7 @@
 <p align="center"> <img  width="80px" height="80px" src="https://i.ibb.co/9YkQVrH/logo.png"/> </p>
 <h1 align="center"> Developer CMS </h1>
 
-<p align="center">A clean & focused headless CMS for dynamic parts of your website</p>
+<p align="center">Clean and focused headless CMS for dynamic parts of your website</p>
 <p align="center">You can deploy the CMS on AWS, DigitalOcean, opeNode, Microsoft Azure and so on, then interact with it via API</p>
 <br><br>
 
@@ -92,7 +92,7 @@ To convert this object to html and display it on web pages, you can use modules 
 
 
 ## 🚀 Live demo
-use `adminuser` for username and `adminpass` password.
+use `adminuser` for username and `adminpass` for password.
 
 ```
 https://devcms.ir
