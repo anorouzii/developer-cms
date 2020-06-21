@@ -21,7 +21,7 @@ router.post('/',async (request,response)=> {
         return response.status(401).json({msg:'Please enter username and password.'})
     }
     try {
-        if (username !== config.get('admin.username') || password !== config.get('admin.password')) {
+        if (username !== config.get('admin.username') || !bcrypt.compare(config.get('admin.password'), password)) {
             return response.status(401).json({msg:'Username or password is not correct.'})
         }
         // Create JWT token
