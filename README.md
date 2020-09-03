@@ -2,7 +2,7 @@
 <h1 align="center"> Developer CMS </h1>
 
 <p align="center">Clean and focused headless CMS for dynamic parts of your website</p>
-<p align="center">You can deploy the CMS on AWS, DigitalOcean, opeNode, Microsoft Azure and so on, then interact with it via API</p>
+<p align="center">You can deploy the CMS on AWS, DigitalOcean, Microsoft Azure and so on, then interact with it via API</p>
 <br><br>
 
 ![Developer CMS](https://i.ibb.co/hX0Qd45/admin.png)
@@ -100,8 +100,6 @@ password: `adminpass`
 ```
 https://devcms.ir
 ```
-
-Thanks to <a href="https://www.openode.io/">opeNode.io</a> for providing free node.js hosting for this project
 
 ## 🛠 Built with
 Node.js . Express . MongoDB . JWT . React . Redux . Quill
